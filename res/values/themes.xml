@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Coffee" >
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#4169E1</item>
+        <item name="colorPrimaryVariant">#4B0082</item>
+        <item name="colorOnPrimary">#4169E1</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme">theme</style>
+</resources>
